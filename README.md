@@ -20,13 +20,13 @@ https://github.com/user-attachments/assets/218406fa-be3f-4022-bee5-5440bb7ab977
 
 # Learnings
 User Engagement 
-Interactive elements significantly enhance visual experiences, making them more engaging and memorable
+- Interactive elements significantly enhance visual experiences, making them more engaging and memorable
 
 Spline Capabilities
-The tool offers powerful real-time interactivity, making it accessible for creating complex visual effects without coding
+- The tool offers powerful real-time interactivity, making it accessible for creating complex visual effects without coding
 
 Balancing Aesthetics & Performance
-Finding the right balance between visual fidelity and smooth performance is key to ensuring a seamless experience across devices
+- Finding the right balance between visual fidelity and smooth performance is key to ensuring a seamless experience across devices
 
 # Link to Try
 https://my.spline.design/untitled-0d43b656e92d2307d16df4c0a842a227/
